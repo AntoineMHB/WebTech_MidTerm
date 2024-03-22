@@ -1,0 +1,6 @@
+[submodule "AUCA_CRUD"]
+	path = AUCA_CRUD
+	url = https://github.com/AntoineMHB/AUCA_Student_Registration_Module.git
+[submodule "AUCA_Website"]
+	path = AUCA_Website
+	url = https://github.com/AntoineMHB/AUCA_Website.git
